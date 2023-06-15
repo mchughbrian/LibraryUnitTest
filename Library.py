@@ -18,3 +18,4 @@ else:
 
 # Output: The book was added to the library.
 
+print(myLibrary.count_books())
